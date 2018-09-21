@@ -20,7 +20,7 @@ How can we use tree location data, flood complaint data, and census data to achi
 
 | Dataset | Description | Link |
 | --------- | ----------- | ---- |
-| Tree Inventory | List of trees with metadata for the City of Urbana | |
-| Flood Complaints | List of flood complaints for the City of Urbana | |
+| Tree Inventory (tree_inventory.csv) | List of trees with metadata for the City of Urbana | https://github.com/cudsug/urbana-trees-analysis/blob/master/data/tree_inventory.csv |
+| Flood Complaints (flood_complaints.csv) | List of flood complaints for the City of Urbana | https://github.com/cudsug/urbana-trees-analysis/blob/master/data/flood_complaints.csv |
 | Urbana TreeKeeper data | Graphical view of all trees in Urbana by location along with greenhouse gas, water, and energy benefits. | https://urbana.mytreekeeper.com/ |
 | Urbana Census data | Details on the Urbana city population including demographics, economic, and housing information. | https://www.census.gov/quickfacts/fact/table/urbanacityillinois/PST045217 |
